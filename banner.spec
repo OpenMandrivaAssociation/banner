@@ -10,7 +10,6 @@ Source0: http://cedar-solutions.com/ftp/software/%{name}-%{version}.tar.bz2
 License: GPL
 Group: Text tools
 Url: http://www.cedar-solutions.com/software.html
-BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: automake
 
 %description
