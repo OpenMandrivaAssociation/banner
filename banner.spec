@@ -42,3 +42,41 @@ rm -rf $RPM_BUILD_ROOT
 
 
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 1.3.2-5mdv2011.0
++ Revision: 616708
+- the mass rebuild of 2010.0 packages
+
+* Tue Sep 01 2009 Thierry Vignaud <tv@mandriva.org> 1.3.2-4mdv2010.0
++ Revision: 424010
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tv@mandriva.org> 1.3.2-3mdv2009.0
++ Revision: 243161
+- rebuild
+
+* Thu Dec 20 2007 Olivier Blin <oblin@mandriva.com> 1.3.2-1mdv2008.1
++ Revision: 135828
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Tue Feb 27 2007 Olivier Thauvin <nanardon@mandriva.org> 1.3.2-1mdv2007.0
++ Revision: 126262
+- 1.3.2
+
+* Sat Aug 05 2006 Olivier Thauvin <nanardon@mandriva.org> 1.3.1-3mdv2007.0
++ Revision: 52861
+- rebuild
+- Import banner
+
+* Wed Oct 05 2005 Olivier Thauvin <nanardon@mandriva.org> 1.3.1-2mdk
+- rebuild
+
+* Thu Jul 08 2004 Olivier Thauvin <thauvin@aerov.jussieu.fr> 1.3.1-1mdk
+- 1.3.1
+
