@@ -1,6 +1,6 @@
 %define name banner
 %define version 1.3.2
-%define release %mkrel 5
+%define release 6
 
 Summary: Print text as banner on the console
 Name: %{name}
